@@ -62,6 +62,7 @@ I'm a 25 years old web developer from Bangladesh. I mainly code in Php and JavaS
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff)
 
 ### - Tools & Technologies
