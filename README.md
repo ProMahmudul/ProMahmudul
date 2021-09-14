@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<h3>👨‍ Mahmudul Hassan | 💻 Web Developer | 🛸 Dhaka, Bangladesh</h3>
+<h3>👨‍ Mahmudul Hassan | 💻 Software Developer | 🛸 Dhaka, Bangladesh</h3>
 </div>
 
 <hr>
