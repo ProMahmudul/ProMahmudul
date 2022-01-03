@@ -32,8 +32,8 @@ I'm a 25 years old web developer from Bangladesh. I mainly code in Php and JavaS
 
 ### Talking About Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel and WordPress.
-- 🚀 &nbsp; I’m currently learning everything 🤣
+- 🛠 &nbsp; I’m currently working with Laravel and React.
+- 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mahmudul.coder@gmail.com.
