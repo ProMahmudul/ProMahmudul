@@ -57,13 +57,14 @@ I'm a 25 years old software developer from Bangladesh. I mainly code in Php and 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=fff)
 
 ### - Frameworks, CMS & Libraries
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter&logoColor=fff)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=fff)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=fff)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff)
 
 ### - Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff)
