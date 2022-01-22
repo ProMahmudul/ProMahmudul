@@ -36,7 +36,7 @@ I'm a 25 years old software developer from Bangladesh. I mainly code in Php and 
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: mahmudul.coder@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11A2QJRVa0gZZBeL4gdBGSKOryrF846dX/view){:target="_blank" rel="noopener"}.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11A2QJRVa0gZZBeL4gdBGSKOryrF846dX/view).
 
 ### My Absolute Favorites:
 
