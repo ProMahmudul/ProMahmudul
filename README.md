@@ -25,7 +25,7 @@
 
 ### Glad To See You Here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
 
-I'm a 25 years old web developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
+I'm a 25 years old software developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/ProMahmudul/ProMahmudul/main/code.gif" />
@@ -36,7 +36,7 @@ I'm a 25 years old web developer from Bangladesh. I mainly code in Php and JavaS
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: mahmudul.coder@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11A2QJRVa0gZZBeL4gdBGSKOryrF846dX/view).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11A2QJRVa0gZZBeL4gdBGSKOryrF846dX/view){:target="_blank" rel="noopener"}.
 
 ### My Absolute Favorites:
 
