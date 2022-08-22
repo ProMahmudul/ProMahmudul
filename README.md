@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<h3>👨‍ Mahmudul Hassan | 💻 Software Developer | 🛸 Dhaka, Bangladesh</h3>
+<h3>👨‍ Mahmudul Hassan | 💻 Software Engineer | 🛸 Dhaka, Bangladesh</h3>
 </div>
 
 <hr>
@@ -61,10 +61,12 @@ I'm a 25 years old software developer from Bangladesh. I mainly code in Php and 
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Bootstrap&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=React&logoColor=fff)
 
 ### - Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff)
